@@ -1,4 +1,4 @@
-# flutterando
+# UI-SHOES-STORE
 
 A new Flutter project.
 
